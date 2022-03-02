@@ -2,6 +2,6 @@
 -------------------------
 ### Run data-mining-conferences-Google-Colab
 
-https://colab.research.google.com/drive/1ImbI5eqeCUFtNalNfu3qkcMPebsdSrY2?usp=sharing
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
 
 -------------------------
